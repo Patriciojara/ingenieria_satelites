@@ -1,3 +1,6 @@
+# Patricio Jara Q
+# 09-11-2026
+# Test sensor bme
 
 import time
 import board
