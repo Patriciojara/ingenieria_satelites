@@ -9,9 +9,9 @@ from time import sleep
 # Asignación de nombres a GPIO (numeración BCM)
 PINES = {
     "abrir": 21,
-    "cerrar": 20,
-    "extractor": 16,
-    "up": 12
+    "cerrar": 23,
+    "extractor": 18,
+    "up": 20
 }
 
 factory = LGPIOFactory()
