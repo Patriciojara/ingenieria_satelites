@@ -19,8 +19,8 @@ INTERVALO = 0.5                # segundos
 PAUSA_CAMBIO = 0.1             # segundos
 
 PIN_CERRAR = 23
-PIN_ABRIR = 20
-PIN_EXTRACTOR = 21
+PIN_ABRIR = 21
+PIN_EXTRACTOR = 18
 
 # =====================================
 # INICIALIZACION GPIO
